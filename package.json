@@ -1,0 +1,18 @@
+{
+  "name": "file-based-database-shop",
+  "version": "1.0.4",
+  "description": "Shop made with fs module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "keywords": [
+    "shop",
+    "products",
+    "warhouse",
+    "database",
+    "fs"
+  ],
+  "author": "mabrur-h",
+  "license": "MIT"
+}
