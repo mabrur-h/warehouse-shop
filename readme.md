@@ -1,2 +1,1 @@
-# warhouse-shop
- file based database via fs module
+https://www.npmjs.com/package/file-based-database-shop
